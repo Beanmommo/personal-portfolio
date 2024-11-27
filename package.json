@@ -12,6 +12,7 @@
   "dependencies": {
     "@tresjs/nuxt": "^3.0.7",
     "nuxt": "^3.14.1592",
+    "sass": "^1.81.0",
     "vue": "latest",
     "vue-router": "latest"
   }

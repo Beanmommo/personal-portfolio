@@ -1,4 +1,4 @@
 <template>
-
-  <AnimatedCanvas />
+  <Header />
+  <HeroSection />
 </template>
